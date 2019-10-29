@@ -11,4 +11,4 @@ You can submit your working code for the question by posting solution with quest
 **Name :** Deepak Chauhan
 
 
-**GitHub Profile :** [Deepak Chauhan](https://Github.com/Royaleagle73)
+**GitHub Profile :** [RoyalEagle73](https://Github.com/Royaleagle73)
