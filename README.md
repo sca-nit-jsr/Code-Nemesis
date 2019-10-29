@@ -5,7 +5,7 @@ Solution Repository for [Code Nemesis-2019](https://www.hackerearth.com/challeng
 ## Contribution
 You can submit your working code for the question by posting solution with question name in the respective language directory if not exists create a new one.
 
-`Please provide only an optimized a working and well explained solution`
+`Please provide only an optimize working and well explained solution.`
 
 ## Maintainer
 **Name :** Deepak Chauhan
