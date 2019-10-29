@@ -1,5 +1,5 @@
 # Code-Nemesis
-Solution Repository for code Nemesis-2019 event organized by Society of computer Applications.
+Solution Repository for [code Nemesis-2019](https://www.hackerearth.com/challenges/college/Code-Nemesis/) event organized by Society of computer Applications.
 
 
 ## Contribution
