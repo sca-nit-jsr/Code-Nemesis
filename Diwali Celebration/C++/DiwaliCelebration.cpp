@@ -1,6 +1,6 @@
-/* ##Author : Balasubramanian.R
+/* ##Author : Sudhir Verma
 ##Github : https://github.com/Cyberkid2311 
-## Link : https://www.hackerearth.com/challenges/college/Code-Nemesis/algorithm/8c6e5dcb80a74ea2b48850821fef2283/
+## Link : https://www.hackerearth.com/challenges/college/Code-Nemesis/algorithm/3e134bce37bc43198e8a1a4dc28eb13b/
 */ 
 
 /* The objective of the program is to find the positive distance between the rockets. 
