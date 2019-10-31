@@ -1,5 +1,5 @@
 /* ##Author : Sudhir Verma
-##Github : https://github.com/Cyberkid2311 
+##Github : https://github.com/sudhirkv133 
 ## Link : https://www.hackerearth.com/challenges/college/Code-Nemesis/algorithm/8c6e5dcb80a74ea2b48850821fef2283/
 */ 
 
